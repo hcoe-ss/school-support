@@ -5,30 +5,32 @@ title: 'Lexile and Quantile Hub'
 permalink: /lex-quant-hub
 ---
 
+# Lexile and Quantile Hub
+
 <embed src="media/cera.lexile.quantile_conf.pptx.pdf#toolbar=0&navpanes=0"
     height="450px"
     width="700px">
 
 ### Lexile and Quantile now available on ALL student score reports
 
-# CERS
+### CERS
 Use dropdown to switch to the Lexile Report
 Shows Lexile range for each student
 Clicking on range? links directly to LQH
 
-# Lexile Framework
+### Lexile Framework
 Scale used to measure readers ability and complexity of text
 Reading Comprehension
 Complexity of sentences
 Complexity of vocabulary
 2000pt scale extends past 2000, but texts exceeding 2000 are rare
 
-# Quantile
+### Quantile
 Measure of readiness not mastery
 
 NWEA -> Lexile/Quantile Linking Study
 
-# Lexile Quantile Hub - Free for all CA
+### Lexile Quantile Hub - Free for all CA
 https://hub.lexile.com/
 See slides for self-registration guide
 Parents can register with a lower level of access
