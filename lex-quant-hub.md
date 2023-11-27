@@ -6,7 +6,6 @@ permalink: /lex-quant-hub
 ---
 
 <embed src="media/cera.lexile.quantile_conf.pptx.pdf"
-    type="applcation/pdf"
     height="450px"
     width="700px">
 
