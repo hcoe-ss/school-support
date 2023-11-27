@@ -15,11 +15,9 @@ permalink: /lex-quant-hub
 
 ### CERS
 
-Use dropdown to switch to the Lexile Report
-
-Shows Lexile range for each student
-
-Clicking on range? links directly to LQH
+* Use dropdown to switch to the Lexile Report
+* Shows Lexile range for each student
+* Clicking on range? links directly to LQH
 
 ### Lexile 
 
