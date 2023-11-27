@@ -2,4 +2,4 @@
 layout: default-mod
 ---
 
-[Template Example](./example.md).
+[Template Example](./example.html)
