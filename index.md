@@ -1,6 +1,5 @@
 ---
 layout: default-mod
-title: "School Support"
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
