@@ -5,7 +5,11 @@ title: 'Lexile and Quantile Hub'
 permalink: /lex-quant-hub
 ---
 
-![Slideshow](media/cera.lexile.quantile_conf.pptx.pdf)
+<object data="media/cera.lexile.quantile_conf.pptx.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="media/cera.lexile.quantile_conf.pptx.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="media/cera.lexile.quantile_conf.pptx.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 # Lexile and Quantile now available on ALL student score reports
 
