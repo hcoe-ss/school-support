@@ -5,7 +5,7 @@ title: 'Lexile and Quantile Hub'
 permalink: /lex-quant-hub
 ---
 
-<embed src="media/cera.lexile.quantile_conf.pptx.pdf"
+<embed src="media/cera.lexile.quantile_conf.pptx.pdf#toolbar=0&navpanes=0"
     height="450px"
     width="700px">
 
