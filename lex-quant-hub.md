@@ -9,7 +9,7 @@ permalink: /lex-quant-hub
     height="450px"
     width="700px">
 
-# Lexile and Quantile now available on ALL student score reports
+### Lexile and Quantile now available on ALL student score reports
 
 # CERS
 Use dropdown to switch to the Lexile Report
